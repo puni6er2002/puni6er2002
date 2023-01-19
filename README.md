@@ -50,7 +50,7 @@
 ---
 
 ### :fire: Ending :
-- Thanx everyone for your attention and curiosity to my GitHub account. Hope you enjoy it! :wave:
+- Thanx everyone for your attention and curiosity to my GitHub account. Hope you enjoy it! 😃
 
 
 ---
