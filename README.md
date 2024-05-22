@@ -64,7 +64,7 @@
     <img src="https://img.shields.io/badge/Facebook-navy?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
   </a>
-  <a href = "https://t.me/zaboristiy_20">
+  <a href = "https://t.me/zaboristiy_21">
     <img src="https://img.shields.io/badge/Telegram-9cf?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
