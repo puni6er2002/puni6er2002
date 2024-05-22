@@ -17,7 +17,7 @@
 
 - :mailbox:How to reach me in social media: [![Linkedin Badge](https://img.shields.io/badge/-Denis_Petrenko-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/denis-petrenko-8a8b79225)
 
-- :speech_balloon:How to reach me in chats: [![Telegram Badge](https://img.shields.io/badge/-Denis_Petrenko-9cf?%20style=flat&logo=Telegram&logoColor=white)](https://t.me/zaboristiy_20)
+- :speech_balloon:How to reach me in chats: [![Telegram Badge](https://img.shields.io/badge/-Denis_Petrenko-9cf?%20style=flat&logo=Telegram&logoColor=white)](https://t.me/zaboristiy_21))
 
 ---
 
